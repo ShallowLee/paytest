@@ -60,7 +60,7 @@ XD1pCrPZTco4CiambuECQDNtlC31iqzSKmgSWmA5kErqVJB0f1i+a0CbQLlaPGYN
 //访问模式,根据自己的服务器是否支持ssl访问，若支持请选择https；若不支持请选择http
         $llpay_config['transport'] = 'http';
 
-        var_dump($llpay_config);
+//        var_dump($llpay_config);
         return $llpay_config;
     }
 }

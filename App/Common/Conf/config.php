@@ -2,22 +2,11 @@
 return array(
     'APP_SUB_DOMAIN_DEPLOY'   =>    1, // 开启子域名配置
     'APP_SUB_DOMAIN_RULES'    =>    array(//隐藏模块名称
-        'twww.5616856.com'        => 'Home',//pc门户站
-        'tboss.5616856.com'       => 'Admin',//总后台
-        'tadmin.5616856.com'       => 'Admin',//总后台
-        'tcompany.5616856.com'    => 'Company',//商家后台
-        'tm.5616856.com'          => 'Mobile',//移动端门户站
-
-        'www.5616856.com'        => 'Home',//pc门户站
-        'boss.5616856.com'       => 'Admin',//总后台
-        'company.5616856.com'    => 'Company',//商家后台
-        'm.5616856.com'          => 'Mobile',//移动端门户站
-        'api.5616856.com'        => 'Api',//接口
-        'a.5616856.com'          => 'Admin',//移动端门户站
+        'llpay.itcitylife.com'        => 'Llpay',//pc门户站
     ),
     'LOG_RECORD'               =>  false,   // 默认不记录日志
     //'TMPL_FILE_DEPR'=>'_',//
-    'TMPL_TEMPLATE_SUFFIX'     => '.php',//默认文件后缀
+    'TMPL_TEMPLATE_SUFFIX'     => '.html',//默认文件后缀
     'URL_HTML_SUFFIX'          => '.htm',//伪静态
 //    'SHOW_PAGE_TRACE'=>true,// 显示页面Trace信息
     'URL_PARAMS_BIND'          => true, // URL变量绑定到操作方法作为参数

@@ -2590,3 +2590,117 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
 
+[ 2018-03-09T16:25:42+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2018-03-09T16:25:43+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-03-09T16:28:27+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2018-03-09T16:31:27+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+
+[ 2018-03-09T16:31:35+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2018-03-09T16:32:17+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2018-03-09T16:32:18+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2018-03-09T16:45:08+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001725s ]
+
+[ 2018-03-09T16:45:11+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2018-03-09T16:54:18+08:00 ] 127.0.0.1 /paytest/index.php/Llpay/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+NOTIC: [8] Undefined variable: llpay_config D:\phpstudy\PHPTutorial\WWW\paytest\App\Llpay\Controller\IndexController.class.php 第 8 行.
+ERR: 模板不存在:./App/Llpay/View/Index/index.php
+
